@@ -6,9 +6,5 @@
       "**/.*",
       "**/node_modules/**"
     ]
-	"github": {
-        "repo": "JeffreyArrosio/DPLFire",
-        "branch": "master" // or specify your desired branch
-     }
-   }
+  }
 }
